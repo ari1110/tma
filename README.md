@@ -8,8 +8,6 @@ A collection of terminal-based animations and visualizations written in Python.
 
 Cyberpunk cityscape with holographic ads, rain particles, and parallax scrolling.
 
-![Neon City](neon_city/preview.gif)
-
 [View Details](neon_city/) | `python -m neon_city`
 
 ---
@@ -88,7 +86,7 @@ Retro terminal-styled cube with hexadecimal glyphs.
 
 ```bash
 # Clone the repo
-git clone https://github.com/ari1110/tma.git
+git clone https://github.com/arimxyer/tma.git
 cd tma
 
 # Run the graphical animation (requires raylib)

@@ -2,8 +2,6 @@
 
 A cyberpunk cityscape animation with procedural buildings, holographic ads, and rain particles.
 
-![Preview](preview.gif)
-
 ## Run
 
 ```bash
