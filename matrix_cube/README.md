@@ -1,8 +1,8 @@
 # Matrix Cube
 
-Rotating 3D cube with Matrix code rain aesthetic.
+Rotating 3D cube with Matrix code rain aesthetic. 
 
-![Preview](preview.gif)
+![Preview](matrix_cube.gif)
 
 ## Run
 

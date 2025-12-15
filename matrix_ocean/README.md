@@ -2,7 +2,7 @@
 
 Ocean waves rendered with Matrix-style code characters.
 
-![Preview](preview.gif)
+![Preview](matrix_ocean.gif)
 
 ## Run
 

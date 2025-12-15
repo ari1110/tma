@@ -2,7 +2,7 @@
 
 4D tesseract (hypercube) projected into 3D space with smooth rotation.
 
-![Preview](preview.gif)
+![Preview](hyper_cube.gif)
 
 ## Run
 

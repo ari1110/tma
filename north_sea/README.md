@@ -1,8 +1,8 @@
 # North Sea
 
-Rough ocean view from a boat with realistic vessel motion simulation.
+Rough ocean view from a boat with realistic vessel motion simulation. (Recorded at 30FPS gif)
 
-![Preview](preview.gif)
+![Preview](north_sea.gif)
 
 ## Run
 

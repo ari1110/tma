@@ -1,8 +1,8 @@
 # Pier View
 
-Advanced ocean visualization with realistic wave physics and atmospheric perspective.
+Advanced ocean visualization with realistic wave physics and atmospheric perspective. (Recorded at 30FPS gif)
 
-![Preview](preview.gif)
+![Preview](pier_view.gif)
 
 ## Run
 

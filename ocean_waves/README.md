@@ -2,7 +2,7 @@
 
 Animated ocean waves simulation using sine wave interference patterns.
 
-![Preview](preview.gif)
+![Preview](ocean_waves.gif)
 
 ## Run
 

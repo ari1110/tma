@@ -2,7 +2,7 @@
 
 Retro terminal-styled rotating cube with hexadecimal glyphs.
 
-![Preview](preview.gif)
+![Preview](terminal_cube.gif)
 
 ## Run
 
