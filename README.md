@@ -1,6 +1,6 @@
 # Terminal Animation Art
 
-A collection of terminal-based animations and visualizations written in Python.
+A collection of terminal-based animations and visualizations written in Python and Numpy, free for all to explore and modify.
 
 ## Gallery
 
